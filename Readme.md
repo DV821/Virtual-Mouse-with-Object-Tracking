@@ -12,27 +12,27 @@ Libraries used :
 
 ## Steps followed
 
-- Color Detection
-![Color Detection](Outputs/Color Detection.png)
+- Color Detection<br><br>
+![Color Detection](https://github.com/DV821/Virtual-Mouse-with-Object-Tracking/blob/main/Outputs/Color%20Detection.png)
 
-- Mask filtering
-![Filtering Mask](Outputs/Filtering Mask.png)
+- Mask filtering<br><br>
+![Filtering Mask](https://github.com/DV821/Virtual-Mouse-with-Object-Tracking/blob/main/Outputs/Filtering%20Mask.png)
 
-- Object Tracking
-![Object Tracking](Outputs/Object Tracking.png)
+- Object Tracking<br><br>
+![Object Tracking](https://github.com/DV821/Virtual-Mouse-with-Object-Tracking/blob/main/Outputs/Object%20Tracking.png)
 
-- Creating pointer to control cursor
-![Pointer Creation](Outputs/Pointer Creation.png)
+- Creating pointer to control cursor <br><br>
+![Pointer Creation](https://github.com/DV821/Virtual-Mouse-with-Object-Tracking/blob/main/Outputs/Pointer%20Creation.png)
 
-- Creating boundary to represent screen
-![Boundary Screen](Outputs/Boundary Screen.png)
+- Creating boundary to represent screen<br><br>
+![Boundary Screen](https://github.com/DV821/Virtual-Mouse-with-Object-Tracking/blob/main/Outputs/Boundary%20Screen.png)
 
-- Moving the cursor (Open gesture)
-![Open Gesture](Outputs/Open Gesture.png)
+- Moving the cursor (Open gesture)<br><br>
+![Open Gesture](https://github.com/DV821/Virtual-Mouse-with-Object-Tracking/blob/main/Outputs/Open%20Gesture.png)
 
-- Preforming click and dragging (Close gesture)
-![Close Gesture](Outputs/Close Gesture.png)
-![Dragging Operation](Outputs/Dragging Operation.png)
+- Preforming click and dragging (Close gesture)<br><br>
+![Close Gesture](https://github.com/DV821/Virtual-Mouse-with-Object-Tracking/blob/main/Outputs/Close%20Gesture.png)<br><br>
+![Dragging Operation](https://github.com/DV821/Virtual-Mouse-with-Object-Tracking/blob/main/Outputs/Dragging%20Operation.png)
 
 - Fine Tuning
     1) Position Flickering
