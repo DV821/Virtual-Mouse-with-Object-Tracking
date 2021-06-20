@@ -1,5 +1,5 @@
 
-# Virtual Mouse with gesture control
+# Virtual Mouse with gesture control (Using Object Tracking)
 
 The project is about controlling cursor movement and actions using gestures. We have used computer vision in this project where the camera would detect the object(s) (finger gloves) and perform operations accordingly. If there are two objects detected then it will control the movement of cursor and if there is one object, it will execute clicking and dragging operations.
 Libraries used :
